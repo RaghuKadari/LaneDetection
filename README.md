@@ -3,10 +3,8 @@
   * Python
   * Open CV
   * Numpy 
-  
-  
-# Video. 
 
-[![ Demo](https://j.gifs.com/YWOwNA.gif)](https://youtu.be/TU2V5u7UDws)
-   
 
+
+
+[![Demo](https://gifs.com/gif/YWOwNA)](https://youtu.be/TU2V5u7UDws)
